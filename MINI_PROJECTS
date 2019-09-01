@@ -1,0 +1,36 @@
+
+Mini Projects :
+
+
+	Title: Introduction Chart For Pokémon /WWE Cast				                                                           Sept , 2014- Oct, 2014
+Description
+o	Shows All Pokémon /WWE in Grid View on landing Page 
+o	On clicking Image , Show Respective Detailed information like name , Type, Special Techniques   etc  of  Pokémon/WWE Character with Images in tabular Format and Contains Hyperlinks which redirect to third Party Websites for more detailed Information .   
+         Tech: HTML,CSS ,BOOTSTRAP   	
+        Team Size: 1                                                                                                                    
+	Title: The Art Gallery
+Description							           		                                                                               Oct , 2014- Nov, 2014
+o	Displays  High Quality Images  with Image Zoom Facilities, 
+o	Contains Various Categories like City ,Mountains , etc based on selection show related images and contains Hyperlinks with Images
+o	Linked with various pages like About us , Sign Up ,Sign In ,Contact Us. 
+       Tech: HTML,CSS  ,BOOTSTRAP
+Team Size: 1
+	 Title: TO DO TASK LIST     
+Description                                                                                                		       Feb , 2015- Mar, 2015
+o	ADD/REMOVE/UPDATE  TASK ,also TRACK Finished /Unfinished Task 
+o	Show Details Of Task
+       Tech: HTML,CSS  ,BOOTSTRAP ,JAVASCRIPT
+       Team Size: 1
+	Title:  Calculator 
+Description								                                                                                        Aug , 2015- Sept, 2015
+o	Performs Basic Calculation Like Add/Sub/Multiply/Divide and Follow BODMAS Approach ,PERCENTAGE ,MODULUS
+      Tech: C, Data Structure
+      Team Size: 1	
+	Title: Perfect Match 	
+Description						       	                                                                                     Feb , 2016- Apr, 2016
+o	It is Human-Feline Dating Project, Designed and Created End to End FrontEnd Part
+o	Functionalities:
+o	Sign UP, Sign In for humans/Feline
+o	Matching Human with Feline based on Interest and Characteristics 
+       Tech : HTML ,CSS ,BOOTSTRAP , JAVASCRIPT
+       Team Size: 2
